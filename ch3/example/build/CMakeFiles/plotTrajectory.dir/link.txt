@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/plotTrajectory.dir/plotTrajectory.cpp.o  -o plotTrajectory   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lGL -lpangolin 

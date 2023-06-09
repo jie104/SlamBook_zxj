@@ -1,0 +1,15 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_zhengxiaojie__40735: http://zhengxiaojie:40735/
+rosversion: '1.16.0
+
+  '
+run_id: 980e89ea-f55f-11ed-aba4-21af16001e60
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 100
+  name: my_turtle

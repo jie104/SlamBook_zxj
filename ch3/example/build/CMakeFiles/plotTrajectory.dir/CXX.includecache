@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxj/桌面/Study/SlamBook_zxj/ch3/example/plotTrajectory.cpp
+pangolin/pangolin.h
+-
+Eigen/Core
+-
+unistd.h
+-
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+

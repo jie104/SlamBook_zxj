@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxj/桌面/Study/SlamBook_zxj/ch2/libHelloSLAM.h
+
+/home/zxj/桌面/Study/SlamBook_zxj/ch2/useHello.cpp
+libHelloSLAM.h
+/home/zxj/桌面/Study/SlamBook_zxj/ch2/libHelloSLAM.h
+

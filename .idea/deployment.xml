@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="RH31022 (cdfa9e6f-07d0-48f9-b7bf-f8f23eba1f7a)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/SlamBook_zxj" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

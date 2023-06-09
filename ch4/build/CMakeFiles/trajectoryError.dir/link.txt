@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/trajectoryError.dir/example/trajectoryError.cpp.o  -o trajectoryError   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lSophus -lpangolin -lGL 
