@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxj/桌面/Study/SlamBook_zxj/ch8/optical_flow.cpp
+opencv4/opencv2/opencv.hpp
+-
+string
+-
+chrono
+-
+Eigen/Core
+-
+Eigen/Dense
+-
+

@@ -12,4 +12,4 @@ add_executable(SlamBook_zxj
         ch2/useHello.cpp
         ch3/useEigen/eigenMatrix.cpp)
 
-add_executable(useSophus useSophus.cpp)
+#add_executable(useSophus useSophus.cpp)
